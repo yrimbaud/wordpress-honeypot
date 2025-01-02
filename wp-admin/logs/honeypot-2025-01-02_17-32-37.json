@@ -1,0 +1,12 @@
+{
+    "date": "2025-01-02 17:32:37",
+    "ip": "::1",
+    "user_agent": "Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/131.0.0.0 Safari\/537.36",
+    "referer": "http:\/\/localhost:8888\/honeypot-wordpress\/wp-admin\/setup-config.php?step=1",
+    "language": "",
+    "dbname": "",
+    "uname": "",
+    "pwd": "",
+    "dbhost": "localhost",
+    "prefix": "wp_"
+}
